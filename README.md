@@ -38,11 +38,11 @@ Microsoft Build features five main themes about innovating without compromise, d
 - **SCALE CLOUD-NATIVE APPS AND ACCELERATE APP MODERNIZATION**: Scale your application innovation and modernization with cloud-native technologies and fully managed databases—without compromise. Today’s announcements highlight our latest innovations to help you build applications for the cloud and accelerate modernization. Learn more below and in [Scott Guthrie’s blog post](https://aka.ms/Build22/Theme2Blog). 
 - **ACCELERATE INNOVATION AND ACHIEVE AGILITY WITH A TRUSTED, INTEGRATED DATA PLATFORM WITH HYBRID AND MULTICLOUD CAPABILITIES**: we’re announcing the Microsoft Intelligent Data Platform, the leading cloud data platform that empowers organizations to invest more time creating value rather than integrating and managing their data estate. Learn more in [Rohan Kumar’s blog post.](https://azure.microsoft.com/en-us/blog/introducing-the-microsoft-intelligent-data-platform/).
 
-
+Listen to [Satya Nadella Keynote](https://mybuild.microsoft.com/en-US/sessions/68db9504-7c75-4a73-8562-dbbd669a3e1f?source=sessions) @ Microsoft Build
 ---
 
 ## Microsoft Book of News 
-The Book of News covers announcements from these 5 areas:
+Discover all the announcments that happened at Microsoft Build. The Book of News covers announcements from these 5 areas:
 | Section | Announcements |
 | --- | --- |
 | Azure | [AI, Cloud Native, Data, Hybrid, Infra, Migration & Modernization, Dev Tools & DevOps](https://news.microsoft.com/build-2022-book-of-news/#a-11-azure-ai)|
@@ -53,48 +53,26 @@ The Book of News covers announcements from these 5 areas:
 
 ---
 
-## Learn AI-Knowledge Mining Bootcamp
-
-| Description | GitHub Repo |
+## Discover. Learn. Skill through Tech Intensity
+Learn with Microsoft through these programs to take your technical skills to the next level!
+| Program | Details |
 | --- | --- | 
-| [Knowledge Mining](https://azure.github.io/LearnAI-KnowledgeMiningBootcamp/) | Knowledge Mining Bootcamp - Build a Cognitive Search Solution for business documents using Microsoft AI Platform |
-| [Alternative agendas](https://azure.github.io/LearnAI-KnowledgeMiningBootcamp/)  | Knowledge Mining Bootcamp - Build a Cognitive Search Solution for business documents using Microsoft AI Platform |
-
+| [Azure Innovation Challenge](https://aka.ms/azureinnovationchallenge) | If you like tackling tough biz problems and solving for complex technical scenarios in creative ways, then join the first Azure Innovation Challenge today|
+| [Microsoft OpenHack](aka.ms/MSUSOpenHack) | Microsoft OpenHack is a developer-focused engagement that connects development teams (Open) with experts to tackle a series of real-world challenges through hands-on experimentation (Hack) online (Virtual).|
+| [Azure Technical Events](aka.ms/azuretechevents) | Skill up on the Microsoft Azure Tech Stack through hands on events |
+| [Azure Tech Intensity](aka.ms/azuretechintensity) | Dive deeper into Microsoft Technology through self paced learning resources|
+| [Microsoft Hands On Labs](https://www.microsoft.com/handsonlabs) | Practice with the latest cloud products and services in a live environment and advance your cloud skills for free.|
 ---
 
-## Microsoft GitHub Repos
+## Stay Connected with Microsoft - Microsoft .Source Newsletter
+Sign up for the [Microsoft.Source Newsletter](https://azure.microsoft.com/en-us/resources/join-the-azure-developer-community/)
 
-| Description | GitHub Repo |
-| --- | --- | 
-| [The Azure Kubernetes Workshop](https://aksworkshop.io/) | The Azure Kubernetes Challenge, Challenged based, immersive way of learning  |
-| [Azure Red Hat OpenShift Workshop](https://aroworkshop.io/) | The Azure Red Hat OpenShift Challenge, Challenged based, immersive way of learning  |
-| [Azure Samples](https://github.com/azure-samples) | Microsoft Azure code samples and examples in .NET, Java, Python, Node.js, PHP and Ruby |
-| [Azure Cosmos DB Workshop](https://cosmosdb.github.io/labs/)  | Series of workshops for hands-on experience working with Azure Cosmos DB using the SQL API, JavaScript and .NET Core SDK. |
-| [Azure Cosmos DB using Azure DevOps](https://github.com/CosmosDB/labs/blob/master/devops/devops.md)  | Quickly get started with Azure Cosmos DB using Azure DevOps Projects |
-| [Microsoft Cloud Workshops](https://github.com/microsoft/MCW) |Microsoft Cloud Workshops  |
-| [Data for Development](https://github.com/Microsoft/developer-immersion-data)| Developer Immersion: Data for Developement|
-| [SQL Server for Developers](https://github.com/Microsoft/sqldev/) | SQL Server for Developers |
-| [IoT Edge and Azure DevOps](https://github.com/toolboc/IoTEdge-DevOps) | IoT Edge and Azure DevOps |
-| [Azure Docs on GitHub](https://github.com/MicrosoftDocs/azure-docs/tree/master/articles) | Azure Docs on GitHub - example:  azure-docs/articles/azure-functions/*.md file |
+Get the latest articles, documentation, and events from Microsoft.Source—the curated monthly developer community newsletter. Learn about new technologies and find opportunities to connect with other developers online and locally.
 
+- Stay at the forefront of rapidly evolving technologies with resources that are relevant to your field, location, and areas of interest—including articles, GitHub repositories, and how-to guides.
+- Get notified about events—from local hacks, workshops, and training sessions to virtual meetups and global conferences.
+- Learn what you want, when you want, how you want. Resources include in-person hands-on workshops, free, interactive online training and sandbox environments.
 
----
-
-## Microsoft Hands-on Labs 
-Microsoft Hands-on Labs 
-Get hands-on with cloud technologies from Microsoft
-Practice with the latest cloud products and services in a live environment and advance your cloud skills for free.
-[Microsoft Hands-on Labs ](https://www.microsoft.com/handsonlabs)
-
-
-
-
-
-
----
-
-## Other Assets
-More Awesome stuff coming !! : )
 
 <!--
 
