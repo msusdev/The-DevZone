@@ -31,7 +31,7 @@ The main purpose of this repository is to provide you with resources from the De
 
 -->
 ---
-## Microsoft Build
+## Microsoft Build 2022
 Microsoft Build features five main themes about innovating without compromise, developing creatively, and building the next generation of apps. Keep reading to learn more about the key announcements aligned to each of these themes, and to discover more ways to connect, learn, and share. For the full set of announcements, check out the [Microsoft Build Book of News](https://news.microsoft.com/build-2022-book-of-news/)
 
 - **RAPIDLY CODE, TEST, AND SHIP FROM SECURE CLOUD DEVELOPER ENVIRONMENTS**: we’re announcing new innovations to help you securely develop and test your next great app and do your best work with any language, any framework, any cloud. Learn more below and in [Kathleen Mitford’s blog post](https://aka.ms/Build22/Theme1Blog). 
