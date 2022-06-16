@@ -31,17 +31,18 @@ The main purpose of this repository is to provide you with resources from the De
 
 -->
 ---
-## "Awesome" Field Contributions
-Complete 1-day technical event agenda's and lab content to help you prepare and deliver !
+## Microsoft Build: Book of News
+Microsoft Build features five main themes about innovating without compromise, developing creatively, and building the next generation of apps. Keep reading to learn more about the key announcements aligned to each of these themes, and to discover more ways to connect, learn, and share. For the full set of announcements, check out the [Microsoft Build Book of News](https://news.microsoft.com/build-2022-book-of-news/)
 
-Do you have content to share? [Join the Awesome Team](mailto:usdev@microsoft.com)
 
-| Description | GitHub Repo |
+The Book of News covers announcements from these 5 areas:
+| Section | Announcements |
 | --- | --- |
-| Migrating Applications to the Cloud| [App Migration - MTC Team](https://github.com/chadgms/2019AzureMigrateYourApps)|
-|Containers and the Path to the Cloud | [Containers and the Path to the Cloud: Which Road to Take - GLR Azure Team](https://github.com/GLRAzure/containers-path-to-cloud)|
-| Application Modernization From IaaS to PaaS| [App Modernization - Ryan Berry](https://github.com/RyanTBerry/RyBerryPublic/tree/master/AppModernization)|
-| Azure Spring Boot Training Materials | [A series of tutorials for a workshop on Azure Spring Boot - Julien Dubois](https://github.com/microsoft/azure-spring-cloud-training)|
+| Azure | [AI, Cloud Native, Data, Hybrid, Infra, Migration & Modernization, Dev Tools & DevOps](https://news.microsoft.com/build-2022-book-of-news/#a-11-azure-ai)|
+| Developer Community | [Containers and the Path to the Cloud: Which Road to Take - GLR Azure Team](https://github.com/GLRAzure/containers-path-to-cloud)|
+| Microsoft 365 | [App Modernization - Ryan Berry](https://github.com/RyanTBerry/RyBerryPublic/tree/master/AppModernization)|
+| Power Platform | [A series of tutorials for a workshop on Azure Spring Boot - Julien Dubois](https://github.com/microsoft/azure-spring-cloud-training)|
+| Windows & Edge | [A series of tutorials for a workshop on Azure Spring Boot - Julien Dubois](https://github.com/microsoft/azure-spring-cloud-training)|
 
 
 ---
