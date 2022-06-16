@@ -31,27 +31,26 @@ The main purpose of this repository is to provide you with resources from the De
 
 -->
 ---
-## Microsoft Build: Book of News
+## Microsoft Build
 Microsoft Build features five main themes about innovating without compromise, developing creatively, and building the next generation of apps. Keep reading to learn more about the key announcements aligned to each of these themes, and to discover more ways to connect, learn, and share. For the full set of announcements, check out the [Microsoft Build Book of News](https://news.microsoft.com/build-2022-book-of-news/)
 
-
-The Book of News covers announcements from these 5 areas:
-| Section | Announcements |
-| --- | --- |
-| Azure | [AI, Cloud Native, Data, Hybrid, Infra, Migration & Modernization, Dev Tools & DevOps](https://news.microsoft.com/build-2022-book-of-news/#a-11-azure-ai)|
-| Developer Community | [Containers and the Path to the Cloud: Which Road to Take - GLR Azure Team](https://github.com/GLRAzure/containers-path-to-cloud)|
-| Microsoft 365 | [App Modernization - Ryan Berry](https://github.com/RyanTBerry/RyBerryPublic/tree/master/AppModernization)|
-| Power Platform | [A series of tutorials for a workshop on Azure Spring Boot - Julien Dubois](https://github.com/microsoft/azure-spring-cloud-training)|
-| Windows & Edge | [A series of tutorials for a workshop on Azure Spring Boot - Julien Dubois](https://github.com/microsoft/azure-spring-cloud-training)|
+- **RAPIDLY CODE, TEST, AND SHIP FROM SECURE CLOUD DEVELOPER ENVIRONMENTS**: we’re announcing new innovations to help you securely develop and test your next great app and do your best work with any language, any framework, any cloud. Learn more below and in [Kathleen Mitford’s blog post](https://aka.ms/Build22/Theme1Blog). 
+- **SCALE CLOUD-NATIVE APPS AND ACCELERATE APP MODERNIZATION**: Scale your application innovation and modernization with cloud-native technologies and fully managed databases—without compromise. Today’s announcements highlight our latest innovations to help you build applications for the cloud and accelerate modernization. Learn more below and in [Scott Guthrie’s blog post](https://aka.ms/Build22/Theme2Blog). 
+- **ACCELERATE INNOVATION AND ACHIEVE AGILITY WITH A TRUSTED, INTEGRATED DATA PLATFORM WITH HYBRID AND MULTICLOUD CAPABILITIES**: we’re announcing the Microsoft Intelligent Data Platform, the leading cloud data platform that empowers organizations to invest more time creating value rather than integrating and managing their data estate. Learn more in [Rohan Kumar’s blog post.](https://azure.microsoft.com/en-us/blog/introducing-the-microsoft-intelligent-data-platform/).
 
 
 ---
 
-## Azure Training Day - Baseline Events 
+## Microsoft Book of News 
+The Book of News covers announcements from these 5 areas:
+| Section | Announcements |
+| --- | --- |
+| Azure | [AI, Cloud Native, Data, Hybrid, Infra, Migration & Modernization, Dev Tools & DevOps](https://news.microsoft.com/build-2022-book-of-news/#a-11-azure-ai)|
+| Developer Community | [Microsoft Learn](https://news.microsoft.com/build-2022-book-of-news/#a-21-microsoft-learn-)|
+| Microsoft 365 | [Microsoft Loop & Teams](https://news.microsoft.com/build-2022-book-of-news/#a-31-microsoft-loop)|
+| Power Platform | [Power Platform](https://news.microsoft.com/build-2022-book-of-news/#a-41-power-platform)|
+| Windows & Edge | [Microsoft Windows & Edge](https://news.microsoft.com/build-2022-book-of-news/#a-51-microsoft-edge)|
 
-| Description | Shared Location |
-| --- | --- | 
-| [Azure Training Day - Baseline Events](https://microsoft.sharepoint.com/sites/Events/SitePages/Baseline.aspx) | Azure Training Day - Baseline Events  FY20H2 |
 ---
 
 ## Learn AI-Knowledge Mining Bootcamp
